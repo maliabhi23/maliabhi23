@@ -1,16 +1,16 @@
-# 👋 Hi, I’m @Pranav Sutar
+# 👋 Hi, I’m @Abhishek Mali
 
-👀 I’m Passionate about Solving Problems and Coding Well-Structured Software and Websites.
+👀 I’m can Passionate about Solving Coding  Problems and Well-Structured Software and Websites.
 
-🌱 I’m a Full Stack Developer.
+🌱 I’m a Mern Full Stack Developer.
 
 💞️ I love collaborating and making connections. Always looking for opportunities to boost my passion for excellence in programming.
 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pranav-Sutar47)
+[![LinkedIn](https://www.linkedin.com/in/abhishek-mali-4222612b6/)  
+[![GitHub]([https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pranav-Sutar47](https://github.com/maliabhi23))
 
 ### 🚀 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

@@ -9,8 +9,8 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/abhishek-mali-4222612b6/)  
-[![GitHub]([https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pranav-Sutar47](https://github.com/maliabhi23))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-mali-4222612b6/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/maliabhi23)
 
 ### 🚀 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

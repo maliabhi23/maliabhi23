@@ -6,7 +6,7 @@
 
 🌱 I’m a AI ML Enginner.
 
-💞️ I love collaborating and making connections. Always looking for opportunities to boost my passion for excellence in programming.
+💞️ I love collaborating and making connections. Iam eager to learn new Technologies Always looking for opportunities to boost my passion for excellence in programming.
 
 ---
 
